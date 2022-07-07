@@ -2,7 +2,7 @@
 
 const Boom = require('@hapi/boom');
 const Hoek = require('@hapi/hoek');
-const Joi = require('@hapi/joi');
+const Joi = require('joi');
 const MediaType = require('media-type');
 
 const Package = require('./package');
